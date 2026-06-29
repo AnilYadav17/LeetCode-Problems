@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0162-find-peak-element) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
