@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -34,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
@@ -47,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
