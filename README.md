@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0067-add-binary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
