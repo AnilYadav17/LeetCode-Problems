@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0137-single-number-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
