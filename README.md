@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnilYadav17/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
 | ------- |
