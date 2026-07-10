@@ -4,4 +4,3 @@ class Solution(object):
             for j in range(i,len(nums)):
                 if nums[i]>nums[j]:
                     nums[i],nums[j]=nums[j],nums[i]
-        return nums
